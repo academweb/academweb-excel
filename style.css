@@ -1,0 +1,40 @@
+/*
+ Theme Name:   HTML5 Blank Child
+ Description:  HTML5 Blank Child Theme
+ Template:     html5blank-stable
+*/
+.alert-field{border:2px solid red !important;}
+.last-row{background-color: #bcecbc !important;}
+.totals{ font-size: 16px; font-weight: bold;padding: 10px;}
+.nav-tabs>li.active>a{font-weight: bold; background-color: #b7deb4 !important;}
+.nav-tabs>li>a{font-size: 1.2em;}
+.client-name>p{font-size: 18px;}
+.glyphicon{ margin: 3px;}
+.glyphicon:hover{cursor:pointer; border: 1px solid; padding: 1px;}
+.glyphicon-pencil:hover{background-color: #e4ffdf;}
+.glyphicon-trash:hover{background-color: #ffbcbc;}
+.theader{font-size: 15px;font-weight: bold;}
+.tbody{overflow-y: auto; overflow-x: hidden; height:450px;    margin: 15px auto;}
+.action-fields .contragents-wrap .form-group .select2-container{width:100% !important;}
+div.action-fields{background-color: #fff !important;}
+.select2-container{width:100% !important;}
+.grand-total{color: red; font-size: 150%;}
+.tab-content{font-size:13px; background-color: #aaddcc45;}
+.tbody .row div{padding:2px 25px;}
+.odd{background: lightgrey;}
+.wrapper{max-width:none !important;}
+.glyphicon-triangle-bottom{ right: 20px; position: absolute !important; top: 30px !important;}
+.daily-totals{font-weight: bold; }
+.header{margin-bottom: 15px;}
+.daily-tables table th{
+	background:#ccb99b;
+    text-align: center;
+    font-size: 115%;
+}
+.all-reports tr th{padding: 2px !important;}
+.all-reports tr td{padding: 1px !important;}
+.receivable_val, .receivable_val_total{color:green;}
+.payable_val, .payable_val_total{color:red;}
+.container-fluid table, .table-bg{
+background-color: #aaddcc45;
+}
